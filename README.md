@@ -9,7 +9,10 @@
 
 ### ```Githack``` is a manual that guides you on how to use git's functionalities in the best possible way.
 
-Coming soon update..
+### We essentially create tools, documentations or utilities and provide them to the open source community. This is how we help other programmers and young people get involved with IT, programming languages and git. 💯 💪 🥳 🎉
+
+
+Continuous upgrades process..
 
 
 
